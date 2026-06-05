@@ -1,0 +1,6 @@
+{
+  "name": "Water Reminder",
+  "description": "A simple and beautiful water intake tracker with customizable reminder notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
