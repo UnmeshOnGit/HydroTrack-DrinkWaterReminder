@@ -38,14 +38,6 @@ HydroTrack is a modern Android application built with Kotlin that helps users ma
 - **Storage:** SharedPreferences / Room Database
 - **Background Tasks:** WorkManager
 
-## 📸 Screenshots
-
-> Add your application screenshots here
-
-| Home Screen | Reminder Settings | Progress Tracking |
-|------------|------------------|-------------------|
-| Screenshot | Screenshot | Screenshot |
-
 ## 🚀 Installation
 
 ### Clone the Repository
