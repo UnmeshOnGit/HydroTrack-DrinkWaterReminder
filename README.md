@@ -44,3 +44,6 @@ HydroTrack is a modern Android application built with Kotlin that helps users ma
 
 ```bash
 git clone https://github.com/UnmeshOnGit/HydroTrack-DrinkWaterReminder.git
+
+###APK File
+you can file apk file in .build-outputs directory
